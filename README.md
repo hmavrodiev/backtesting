@@ -7,6 +7,9 @@ conda env create -f python3.6-environment-windows.yml
 conda activate catalyst  
 catalyst --version  
 (catalyst)$ pip install jupyter
+
+https://github.com/Microsoft/CNTK/issues/2423  
+copy zlib.dll from /catalyst/Liblary/bin to /catalyst/
 ----------------------------------------------------------
 
 
