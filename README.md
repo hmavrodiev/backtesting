@@ -4,7 +4,9 @@
 ----------------------------------------------------------
 Download the .yml file and run  
 conda env create -f python3.6-environment-windows.yml  
-
+conda activate catalyst  
+catalyst --version  
+(catalyst)$ pip install jupyter
 ----------------------------------------------------------
 
 
