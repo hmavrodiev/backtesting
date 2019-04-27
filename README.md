@@ -10,6 +10,9 @@ catalyst --version
 
 https://github.com/Microsoft/CNTK/issues/2423  
 copy zlib.dll from /catalyst/Liblary/bin to /catalyst/
+
+download talib x64 from https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib  
+https://medium.com/@sermal/adaptive-trend-following-trading-strategy-based-on-renko-9248bf83554  
 ----------------------------------------------------------
 
 
